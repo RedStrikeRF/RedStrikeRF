@@ -38,11 +38,11 @@ ___
 
 - :zap: Свое свободное время трачу на программирование и изучение технических аспектов языков программирования, которые мне интересны.
 
-- :question: Остались вопросы, или именются предложения по улучшению кода? Напиши мне в личные сообщение ВК\Телеграм\Дискорд
+- :question: Остались вопросы, или имеются предложения по улучшению кода? Напиши мне в личные сообщение ВК\Телеграм\Дискорд
 
 ___
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и средства программирования:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
