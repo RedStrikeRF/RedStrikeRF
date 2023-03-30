@@ -17,6 +17,6 @@ ____
   </a>
 </div>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=RedStrikeRF&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=RedStrikeRF&style=flat-square&color=blue" width="150"alt=""/>
 </div>
 
