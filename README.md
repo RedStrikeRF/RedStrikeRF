@@ -21,7 +21,7 @@ ____
 </div>
 
 <h1 align="center">
-  What's up?
+  Как твои дела, гость?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -54,3 +54,8 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visualstudio" alt="Visualstudio" width="40" height="40"/>&nbsp;
 </div>
+
+___
+
+### :fire: Моя статистика:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedStrikeRF&theme=highcontrast&border_radius=5&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
