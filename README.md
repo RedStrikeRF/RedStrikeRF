@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/821278458696958014/1019267804807057459/sCaowip.gif" width="900"/>
 </div>
-<div id="badges">
+
+___
+
+<div id="badges" align="center">
   <a href="https://vk.com/red_strike_official">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
@@ -9,6 +12,7 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://t.me/RedStrikeOfficial">
-    <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+___
