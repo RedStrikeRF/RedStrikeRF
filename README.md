@@ -6,7 +6,7 @@ ____
 
 <div id="badges" align="center">
   <a href="https://vk.com/red_strike_official">
-    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"style="margin: 10px 15px 20px 7px"/>
+    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"style="margin: 100px 15px 20px 7px"/>
   </a>
   <a href="https://discordapp.com/users/542320599557472256">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
