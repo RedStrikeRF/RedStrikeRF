@@ -2,8 +2,8 @@
   <img src="https://cdn.discordapp.com/attachments/821278458696958014/1019267804807057459/sCaowip.gif" width="900"/>
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  <a href="https://vk.com/red_strike_official">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
