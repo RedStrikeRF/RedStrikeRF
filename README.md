@@ -5,7 +5,7 @@
 ____
 
 <div id="badges" align="center">
-    
+
   <a href="https://vk.com/red_strike_official">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
@@ -16,5 +16,5 @@ ____
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=RedStrikeRF&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=RedStrikeRF&style=flat-square&color=blue"  align="center" alt=""/>
 
