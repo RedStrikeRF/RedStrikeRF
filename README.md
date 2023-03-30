@@ -3,12 +3,12 @@
 </div>
 <div id="badges">
   <a href="https://vk.com/red_strike_official">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://discordapp.com/users/542320599557472256">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/RedStrikeOfficial">
+    <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
