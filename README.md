@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/821278458696958014/1019267804807057459/sCaowip.gif" width="700"/>
+  <img src="https://cdn.discordapp.com/attachments/821278458696958014/1019267804807057459/sCaowip.gif" width="800"/>
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
