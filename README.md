@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/Il3K.gif" width="1000"/>
+  <img src="https://cdn.discordapp.com/attachments/821278458696958014/1019267804807057459/sCaowip.gif" width="1000"/>
 </div>
