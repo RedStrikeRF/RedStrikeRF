@@ -20,3 +20,9 @@ ____
     <img src="https://komarev.com/ghpvc/?username=RedStrikeRF&style=flat-square&color=blue" width="100"alt=""/>
 </div>
 
+___
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
