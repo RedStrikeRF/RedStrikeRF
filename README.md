@@ -49,7 +49,8 @@
 ### :hammer_and_wrench: Языки и инструменты :
 
 <div>
-  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
 </div>
 
 ## 📈 GitHub статистика
