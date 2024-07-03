@@ -31,10 +31,6 @@
       <a style="font-weight: 700; font-style: italic;" href="https://yandex.ru/maps/geo/yekaterinburg/53166537/?ll=60.475065%2C56.788751&z=9">Екатеринбург</a>
       .
     </p>
-
-  <div id="Ekaterinsburg" style="position: relative; display: inline-block; margin-left: 50px;">
-    <img src="https://a3copydesign.com/upload/iblock/fc6/x418247962-SZHATIE.jpg.pagespeed.ic.jQ9vW38bNJ.jpg" alt="Ekaterinsburg" width="300" height="300" style="display: block; border-radius: 10px;">
-  </div>
   </li>
   <li>💼 На данный момент обучаюсь и нигде не работаю, но активно к этому стремлюсь.</li>
   <li>🎓 Обучаюсь на специльности <a href="https://priem-rtf.urfu.ru/ru/baccalaureate/software-engineering/">"Программная инженерии"</a> в <a href="https://urfu.ru/ru/about/">университете УрФУ</a>.</li>
@@ -129,10 +125,6 @@ ___
       <a style="font-weight: 700; font-style: italic;" href="https://yandex.ru/maps/geo/yekaterinburg/53166537/?ll=60.475065%2C56.788751&z=9">Yekaterinburg</a>
       .
     </p>
-  
-    <div id="Ekaterinsburg" style="position: relative; display: inline-block; margin-left: 50px;">
-      <img src="https://a3copydesign.com/upload/iblock/fc6/x418247962-SZHATIE.jpg.pagespeed.ic.jQ9vW38bNJ.jpg" alt="Ekaterinburg" width="300" height="300" style="display: block; border-radius: 10px;">
-    </div>
   </li>
   <li>💼 Currently studying and actively pursuing opportunities.</li>
   <li>🎓 Studying Software Engineering at <a href="https://urfu.ru/ru/about/">Ural Federal University</a>.</li>
