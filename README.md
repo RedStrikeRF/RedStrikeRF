@@ -50,7 +50,35 @@
 
 <div>
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
-  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-line-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original-wordmark.svg">
+
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  
 </div>
 
 ## 📈 GitHub статистика
