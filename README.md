@@ -49,7 +49,8 @@
 ### :hammer_and_wrench: Языки и инструменты :
 
 <div>
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">&nbsp;
+
   <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">&nbsp;
   <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;
   <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg">&nbsp;
