@@ -1,7 +1,7 @@
 - [RU версия](#ru)
 - [EN version](#en)
 
-<div id="header" align="center">
+<div id="ru" align="center">
   <img style="display: inline-block;"src="https://komarev.com/ghpvc/?username=redstrikerf&style=flat-square&color=blue" alt=""/>
   <p></p>
   <img style="display: inline-block;"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -96,3 +96,100 @@
 
 
 Спасибо за посещение моего профиля! Надеюсь, вы найдёте здесь что-то интересное. Удачного дня!
+
+
+
+
+- [RU version](#ru)
+- [EN version](#en)
+
+<div id="en" align="center">
+  <img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=redstrikerf&style=flat-square&color=blue" alt=""/>
+  <p></p>
+  <img style="display: inline-block;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<p style="font-size:20px">
+  Welcome to my GitHub profile! I am 
+  <a style="font-weight: 700; font-style: italic" href="https://github.com/RedStrikeRF">Ilya Shubin</a>
+  , a passionate Frontend developer and programming enthusiast. Here's a bit about me and my projects.
+</p>
+
+## 📚 About Me
+<ul>
+  <li>
+    <p>
+      🌍 I live in the city of
+      <a style="font-weight: 700; font-style: italic;" href="https://yandex.ru/maps/geo/yekaterinburg/53166537/?ll=60.475065%2C56.788751&z=9">Yekaterinburg</a>
+      .
+    </p>
+  
+    <div id="Ekaterinsburg" style="position: relative; display: inline-block; margin-left: 50px;">
+      <img src="https://a3copydesign.com/upload/iblock/fc6/x418247962-SZHATIE.jpg.pagespeed.ic.jQ9vW38bNJ.jpg" alt="Ekaterinburg" width="300" height="300" style="display: block; border-radius: 10px;">
+    </div>
+  </li>
+  <li>💼 Currently studying and actively pursuing opportunities.</li>
+  <li>🎓 Studying Software Engineering at <a href="https://urfu.ru/ru/about/">Ural Federal University</a>.</li>
+  <li>🔭 Working on my portfolio website to showcase my projects.</li>
+  <li>🌱 Learning and experimenting with <strong>(Type\Java)Script, HTML, CSS, npm</strong>.</li>
+  <li>👯 Looking for collaboration opportunities on open-source projects.</li>
+  <li>💬 Enjoy discussing web-related projects.</li>
+  <li>📫 Feel free to reach out with ideas and proposals: <a href="#contacts">My Contacts</a>.</li>
+</ul>
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-line-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">&nbsp;
+  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
+</div>
+
+## 📈 GitHub Statistics
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redstrikerf&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Your GitHub Statistics](https://github-readme-stats.vercel.app/api?username=redstrikerf&show_icons=true&theme=dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redstrikerf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 id="contacts">📫 My Contacts</h2>
+
+- Vkontakte: [My Profile](https://vk.com/red_strike_official)
+- Discord: [My Profile](https://discordapp.com/users/542320599557472256)
+- Telegram: [My Profile](https://t.me/RedStrikeOfficial)
+- Gmail: [My Profile](mailto:shubin152@gmail.com)
+
+Thanks for visiting my profile! I hope you find something interesting here. Have a great day!
