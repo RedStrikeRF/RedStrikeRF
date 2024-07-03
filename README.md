@@ -7,7 +7,10 @@
   <img style="display: inline-block;"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 id="ru"> Привет, друг! 👋</h1>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <p style="font-size:20px">
   Добро пожаловать в мой профиль на GitHub! Я 
@@ -38,18 +41,11 @@
 </ul>
 
 
-## 🔧 Технологии и инструменты
+### :hammer_and_wrench: Languages and Tools :
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<div>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 ## 📈 GitHub статистика
 
