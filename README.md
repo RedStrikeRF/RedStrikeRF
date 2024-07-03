@@ -1,6 +1,12 @@
 - [RU версия](#ru)
 - [EN version](#en)
 
+<div id="header" align="center">
+  <img style="display: inline-block;"src="https://komarev.com/ghpvc/?username=redstrikerf&style=flat-square&color=blue" alt=""/>
+  <p></p>
+  <img style="display: inline-block;"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 id="ru"> Привет, друг! 👋</h1>
 
 <p style="font-size:20px">
