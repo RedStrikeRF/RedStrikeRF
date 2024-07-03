@@ -48,7 +48,7 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 
-<div>
+<div display="flex" gap="30px">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
