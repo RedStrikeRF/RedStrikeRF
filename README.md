@@ -46,10 +46,10 @@
 </ul>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img style="max-width: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
 
 ## 📈 GitHub статистика
