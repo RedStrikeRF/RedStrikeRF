@@ -49,6 +49,8 @@
 
 ## 📈 GitHub статистика
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redstrikerf&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ![Ваша статистика на GitHub](https://github-readme-stats.vercel.app/api?username=redstrikerf&show_icons=true&theme=dark)
 
 <h2 id="contacts">📫 Мои контакты</h2>
