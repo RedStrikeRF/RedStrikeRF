@@ -97,11 +97,9 @@
 
 Спасибо за посещение моего профиля! Надеюсь, вы найдёте здесь что-то интересное. Удачного дня!
 
+___
 
-
-
-- [RU version](#ru)
-- [EN version](#en)
+___
 
 <div id="en" align="center">
   <img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=redstrikerf&style=flat-square&color=blue" alt=""/>
