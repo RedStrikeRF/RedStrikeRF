@@ -48,8 +48,8 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 
-<div>
-  <img style="max-heigth: 40px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+<div style="max-heigth: 50px">
+  <img style="size: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 </div>
 
 ## 📈 GitHub статистика
