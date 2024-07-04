@@ -141,14 +141,6 @@ ___
   <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
 </div>
 
-## 📈 GitHub Statistics
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redstrikerf&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Your GitHub Statistics](https://github-readme-stats.vercel.app/api?username=redstrikerf&show_icons=true&theme=dark)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redstrikerf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 id="contacts">📫 My Contacts</h2>
 
 - Vkontakte: [My Profile](https://vk.com/red_strike_official)
@@ -157,3 +149,11 @@ ___
 - Gmail: [My Profile](mailto:shubin152@gmail.com)
 
 Thanks for visiting my profile! I hope you find something interesting here. Have a great day!
+
+## 📈 GitHub Statistics
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redstrikerf&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Your GitHub Statistics](https://github-readme-stats.vercel.app/api?username=redstrikerf&show_icons=true&theme=dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redstrikerf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
