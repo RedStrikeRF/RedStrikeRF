@@ -1,7 +1,9 @@
 - [RU версия](#ru)
 - [EN version](#en)
 
-<div id="ru" align="center">
+___
+
+<div align="center">
   <img style="display: inline-block;"src="https://komarev.com/ghpvc/?username=redstrikerf&style=flat-square&color=blue" alt=""/>
   <p></p>
   <img style="display: inline-block;"src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -39,7 +41,6 @@ ___
 <p>💬 С удовольствием приму участие в обсуждении работ связанных с <strong>WEB</strong>-тематикой.</p>
 <p>📫 Если у вас идеи и предложения, то свяжитесь со мной удобным для вас способом: <a href="#contacts">Мои контакты</a>.</p>
 
-
 ### :hammer_and_wrench: Языки и инструменты :
 
 <div>
@@ -72,13 +73,6 @@ ___
   <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
 </div>
 
-## 📈 GitHub статистика
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redstrikerf&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Ваша статистика на GitHub](https://github-readme-stats.vercel.app/api?username=redstrikerf&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redstrikerf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 id="contacts">📫 Мои контакты</h2>
 
@@ -93,21 +87,10 @@ ___
 
 ___
 
+<h1 id="en">EN version</h1>
+
 ___
 
-<div id="en" align="center">
-  <img style="display: inline-block;" src="https://komarev.com/ghpvc/?username=redstrikerf&style=flat-square&color=blue" alt=""/>
-  <p></p>
-  <img style="display: inline-block;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <p style="font-size:20px">
   Welcome to my GitHub profile! I am 
