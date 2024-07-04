@@ -100,13 +100,13 @@ ___
 
 ## 📚 About Me
 <p>🌍 I live in the city of <a style="font-weight: 700; font-style: italic;" href="https://yandex.ru/maps/geo/yekaterinburg/53166537/?ll=60.475065%2C56.788751&z=9">Yekaterinburg</a>.</p>
-💼 Currently studying and actively pursuing opportunities.
-🎓 Studying Software Engineering at <a href="https://urfu.ru/ru/about/">Ural Federal University</a>.
-🔭 Working on my portfolio website to showcase my projects.
-🌱 Learning and experimenting with <strong>(Type\Java)Script, HTML, CSS, npm</strong>.
-👯 Looking for collaboration opportunities on open-source projects.
-💬 Enjoy discussing web-related projects.
-📫 Feel free to reach out with ideas and proposals: <a href="#contacts">My Contacts</a>.
+<p>💼 Currently studying and actively pursuing opportunities.</p>
+<p>🎓 Studying Software Engineering at <a href="https://urfu.ru/ru/about/">Ural Federal University</a>.</p>
+<p>🔭 Working on my portfolio website to showcase my projects.</p>
+<p>🌱 Learning and experimenting with <strong>(Type\Java)Script, HTML, CSS, npm</strong>.</p>
+<p>👯 Looking for collaboration opportunities on open-source projects.</p>
+<p>💬 Enjoy discussing web-related projects.</p>
+<p>📫 Feel free to reach out with ideas and proposals: <a href="#contacts">My Contacts</a>.</p>
 
 
 ### :hammer_and_wrench: Languages and Tools :
