@@ -24,22 +24,14 @@
 </p>
 
 ## 📚 Обо мне
-<ul>
-  <li>
-    <p>
-      🌍Я живу в городе
-      <a style="font-weight: 700; font-style: italic;" href="https://yandex.ru/maps/geo/yekaterinburg/53166537/?ll=60.475065%2C56.788751&z=9">Екатеринбург</a>
-      .
-    </p>
-  </li>
-  <li>💼 На данный момент обучаюсь и нигде не работаю, но активно к этому стремлюсь.</li>
-  <li>🎓 Обучаюсь на специльности <a href="https://priem-rtf.urfu.ru/ru/baccalaureate/software-engineering/">"Программная инженерии"</a> в <a href="https://urfu.ru/ru/about/">университете УрФУ</a>.</li>
-  <li>🔭 В настоящее время я работаю над своим сайтом портфолио, где размещаю готовые работы</li>
-  <li>🌱 Изучаю и экспериментирую с <strong>(Type\Java)Script, HTML, CSS, npm</strong>.</li>
-  <li>👯 Ищу возможности для сотрудничества по проектам с открытым исходным кодом.</li>
-  <li>💬 С удовольствием приму участие в обсуждении работ связанных с <strong>WEB</strong>-тематикой.</li>
-  <li>📫 Если у вас идеи и предложения, то свяжитесь со мной удобным для вас способом: <a href="#contacts">Мои контакты</a>.</li>
-</ul>
+<p>🌍Я живу в городе <a style="font-weight: 700; font-style: italic;" href="https://yandex.ru/maps/geo/yekaterinburg/53166537/?ll=60.475065%2C56.788751&z=9">Екатеринбург</a>.</p>
+<p>💼 На данный момент обучаюсь и нигде не работаю, но активно к этому стремлюсь.</p>
+<p>🎓 Обучаюсь на специльности <a href="https://priem-rtf.urfu.ru/ru/baccalaureate/software-engineering/">"Программная инженерии"</a> в <a href="https://urfu.ru/ru/about/">университете УрФУ</a>.</p>
+<p>🔭 В настоящее время я работаю над своим сайтом портфолио, где размещаю готовые работы</p>
+<p>🌱 Изучаю и экспериментирую с <strong>(Type\Java)Script, HTML, CSS, npm</strong>.</p>
+<p>👯 Ищу возможности для сотрудничества по проектам с открытым исходным кодом.</p>
+<p>💬 С удовольствием приму участие в обсуждении работ связанных с <strong>WEB</strong>-тематикой.</p>
+<p>📫 Если у вас идеи и предложения, то свяжитесь со мной удобным для вас способом: <a href="#contacts">Мои контакты</a>.</p>
 
 
 ### :hammer_and_wrench: Языки и инструменты :
@@ -118,22 +110,15 @@ ___
 </p>
 
 ## 📚 About Me
-<ul>
-  <li>
-    <p>
-      🌍 I live in the city of
-      <a style="font-weight: 700; font-style: italic;" href="https://yandex.ru/maps/geo/yekaterinburg/53166537/?ll=60.475065%2C56.788751&z=9">Yekaterinburg</a>
-      .
-    </p>
-  </li>
-  <li>💼 Currently studying and actively pursuing opportunities.</li>
-  <li>🎓 Studying Software Engineering at <a href="https://urfu.ru/ru/about/">Ural Federal University</a>.</li>
-  <li>🔭 Working on my portfolio website to showcase my projects.</li>
-  <li>🌱 Learning and experimenting with <strong>(Type\Java)Script, HTML, CSS, npm</strong>.</li>
-  <li>👯 Looking for collaboration opportunities on open-source projects.</li>
-  <li>💬 Enjoy discussing web-related projects.</li>
-  <li>📫 Feel free to reach out with ideas and proposals: <a href="#contacts">My Contacts</a>.</li>
-</ul>
+<p>🌍 I live in the city of <a style="font-weight: 700; font-style: italic;" href="https://yandex.ru/maps/geo/yekaterinburg/53166537/?ll=60.475065%2C56.788751&z=9">Yekaterinburg</a>.</p>
+💼 Currently studying and actively pursuing opportunities.
+🎓 Studying Software Engineering at <a href="https://urfu.ru/ru/about/">Ural Federal University</a>.
+🔭 Working on my portfolio website to showcase my projects.
+🌱 Learning and experimenting with <strong>(Type\Java)Script, HTML, CSS, npm</strong>.
+👯 Looking for collaboration opportunities on open-source projects.
+💬 Enjoy discussing web-related projects.
+📫 Feel free to reach out with ideas and proposals: <a href="#contacts">My Contacts</a>.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
