@@ -44,33 +44,59 @@ ___
 ### :hammer_and_wrench: Языки и инструменты :
 
 <div>
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-line-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
+  <div style="border: 2px solid white; padding: 10px;">
+    <h2>Языки и технологии</h2>
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">&nbsp;
+  </div>
+  <div style="border: 2px solid white; padding: 10px;">
+    <h2>Фреймворки и библиотеки</h2>
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
+  </div>
+  <h2>Инструменты разработки</h2>
+  <h2>Контейнеризация и виртуализация</h2>
+  <img style="width: 80px; border: 1px dashed white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg">&nbsp;
+  <h2>Системы управления версиями (VCS)</h2>
+  <h2>Операционные системы</h2>
+  <h2>Браузеры</h2>
+  <h2>Оборудование</h2>
+
+  
+  
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg">&nbsp;
+  
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-line-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">&nbsp;
+  
+  
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">&nbsp;
+  
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">&nbsp;
+  
+  
+  
 </div>
 
 
@@ -112,33 +138,33 @@ ___
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-line-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">&nbsp;
-  <img style="width: 60px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-line-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">&nbsp;
+  <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">&nbsp;
 </div>
 
 <h2 id="contacts">📫 My Contacts</h2>
