@@ -68,6 +68,7 @@ ___
   <div style="border: 2px solid white; padding: 10px;">
     <h2>Контейнеризация и виртуализация</h2>
     <img style="width: 80px; border: 1px dashed white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px dashed white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">&nbsp;
   </div>
   <div style="border: 2px solid white; padding: 10px;">
     <h2>Инструменты разработки</h2>
@@ -87,14 +88,12 @@ ___
     <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">&nbsp;
     <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">&nbsp;
   </div>
-
   <div style="border: 2px solid white; padding: 10px;">
     <h2>Операционные системы</h2>
     <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg">&nbsp;
     <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg">&nbsp;
     <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">&nbsp;
   </div>
-  
   <div style="border: 2px solid white; padding: 10px;">
     <h2>Браузеры</h2>
     <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg">&nbsp;
@@ -104,6 +103,7 @@ ___
   <div style="border: 2px solid white; padding: 10px;">
     <h2>Оборудование</h2>
     <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;
+    <img style="width: 80px; border: 1px solid white; padding: 5px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg">&nbsp;
   </div>
   
   
