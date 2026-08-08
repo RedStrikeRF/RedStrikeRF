@@ -199,8 +199,6 @@ Thanks for visiting my profile! I hope you find something interesting here. Have
 
 <img src="https://raw.githubusercontent.com/redstrikerf/redstrikerf/output/github-contribution-grid-snake.svg" width="90%" />
 
-<sub>*(появится после настройки GitHub Actions — см. примечание ниже)*</sub>
-
 <br/><br/>
 
 ![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
