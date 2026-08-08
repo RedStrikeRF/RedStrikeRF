@@ -97,6 +97,59 @@
 
 Спасибо за посещение моего профиля! Надеюсь, вы найдёте здесь что-то интересное. Удачного дня! 🚀
 
+## 🚀 Проекты
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 [Название проекта 1](https://github.com/RedStrikeRF/)
+
+Краткое описание проекта: что делает, зачем создавался, какая проблема решается.
+
+`React` `TypeScript` `Node.js`
+
+[🔗 Демо](https://example.com) · [📂 Код](https://github.com/RedStrikeRF/)
+
+</td>
+<td width="50%">
+
+### 🎨 [Название проекта 2](https://github.com/RedStrikeRF/)
+
+Краткое описание проекта: что делает, зачем создавался, какая проблема решается.
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 Демо](https://example.com) · [📂 Код](https://github.com/RedStrikeRF/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 [Название проекта 3](https://github.com/RedStrikeRF/)
+
+Краткое описание проекта: что делает, зачем создавался, какая проблема решается.
+
+`Python` `Django`
+
+[🔗 Демо](https://example.com) · [📂 Код](https://github.com/RedStrikeRF/)
+
+</td>
+<td width="50%">
+
+### ⚙️ [Название проекта 4](https://github.com/RedStrikeRF/)
+
+Краткое описание проекта: что делает, зачем создавался, какая проблема решается.
+
+`Angular` `Redux`
+
+[🔗 Демо](https://example.com) · [📂 Код](https://github.com/RedStrikeRF/)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&section=header&text=&fontSize=0" width="100%"/>
@@ -178,6 +231,59 @@
 
 Thanks for visiting my profile! I hope you find something interesting here. Have a great day! 🚀
 
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 [Project name 1](https://github.com/RedStrikeRF/)
+
+Short description of the project: what it does, why it was built, what problem it solves.
+
+`React` `TypeScript` `Node.js`
+
+[🔗 Demo](https://example.com) · [📂 Code](https://github.com/RedStrikeRF/)
+
+</td>
+<td width="50%">
+
+### 🎨 [Project name 2](https://github.com/RedStrikeRF/)
+
+Short description of the project: what it does, why it was built, what problem it solves.
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 Demo](https://example.com) · [📂 Code](https://github.com/RedStrikeRF/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 [Project name 3](https://github.com/RedStrikeRF/)
+
+Short description of the project: what it does, why it was built, what problem it solves.
+
+`Python` `Django`
+
+[🔗 Demo](https://example.com) · [📂 Code](https://github.com/RedStrikeRF/)
+
+</td>
+<td width="50%">
+
+### ⚙️ [Project name 4](https://github.com/RedStrikeRF/)
+
+Short description of the project: what it does, why it was built, what problem it solves.
+
+`Angular` `Redux`
+
+[🔗 Demo](https://example.com) · [📂 Code](https://github.com/RedStrikeRF/)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&section=header&text=&fontSize=0" width="100%"/>
@@ -188,20 +294,45 @@ Thanks for visiting my profile! I hope you find something interesting here. Have
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=redstrikerf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=8E2DE2" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redstrikerf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7" width="39%" />
-
 <img src="https://streak-stats.demolab.com?user=redstrikerf&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=8E2DE2" width="60%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=redstrikerf&theme=radical&no-frame=true&row=1&column=7&margin-w=8" width="92%" />
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/redstrikerf/redstrikerf/output/github-contribution-grid-snake.svg" width="90%" />
 
 <br/><br/>
 
-![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<img src="https://komarev.com/ghpvc/?username=redstrikerf&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt=""/>
+<img src="https://img.shields.io/github/followers/redstrikerf?label=Followers&style=for-the-badge&color=2E9EF7&labelColor=0D1117" alt=""/>
+
+</div>
+
+### 🛠️ Skills Snapshot
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,django,python,cs,docker,git,figma&theme=dark" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/redstrikerf/redstrikerf/output/github-contribution-grid-snake.svg" width="90%" />
+
+</div>
+
+### 🏆 Highlights
+
+<table align="center">
+<tr>
+<td align="center">🎓<br/><b>УрФУ</b><br/><sub>Software Engineering</sub></td>
+<td align="center">🌱<br/><b>Nov 2022</b><br/><sub>На GitHub с</sub></td>
+<td align="center">💻<br/><b>Frontend</b><br/><sub>Основной фокус</sub></td>
+<td align="center">📍<br/><b>Екатеринбург</b><br/><sub>Локация</sub></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=150&section=footer" width="100%"/>
 
