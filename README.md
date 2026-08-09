@@ -103,48 +103,40 @@
 <tr>
 <td width="50%">
 
-### 🌐 [Название проекта 1](https://github.com/RedStrikeRF/)
+### 🕹️ [Mini Arcade](https://github.com/RedStrikeRF/mini-arcade)
 
-Краткое описание проекта: что делает, зачем создавался, какая проблема решается.
+Коллекция из 8 мини-игр в киберпанк-эстетике — у каждой игры свой визуальный мир: фон, палитра, анимации и звук. Единый UI-кит, таблица рекордов и локализация RU/EN.
 
-`React` `TypeScript` `Node.js`
+`React` `Vite` `Zustand` `react-i18next`
 
-[🔗 Демо](https://example.com) · [📂 Код](https://github.com/RedStrikeRF/)
+[🔗 Демо](https://RedStrikeRF.github.io/mini-arcade/) · [📂 Код](https://github.com/RedStrikeRF/mini-arcade)
 
 </td>
 <td width="50%">
 
-### 🎨 [Название проекта 2](https://github.com/RedStrikeRF/)
+### 🎛️ [BackdropLab](https://github.com/RedStrikeRF/backdrop-lab)
 
-Краткое описание проекта: что делает, зачем создавался, какая проблема решается.
+Галерея из 20 анимированных фонов для страницы с живой настройкой параметров и экспортом готового кода в форматах React, TypeScript, JavaScript или чистый HTML.
 
-`HTML` `CSS` `JavaScript`
+`React` `TypeScript` `Vite` `Zustand`
 
-[🔗 Демо](https://example.com) · [📂 Код](https://github.com/RedStrikeRF/)
+[🔗 Демо](https://redstrikerf.github.io/backdrop-lab/) · [📂 Код](https://github.com/RedStrikeRF/backdrop-lab)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📱 [Название проекта 3](https://github.com/RedStrikeRF/)
+### 📝 [Vanilla JS To-Do List](https://github.com/RedStrikeRF/Vanilla-JS-ToDoList)
 
-Краткое описание проекта: что делает, зачем создавался, какая проблема решается.
+Минималистичный список задач на чистом JavaScript без фреймворков и сборщиков. Тёмная тема, сохранение задач в `localStorage` или `sessionStorage` на выбор.
 
-`Python` `Django`
+`HTML` `SCSS` `Vanilla JavaScript`
 
-[🔗 Демо](https://example.com) · [📂 Код](https://github.com/RedStrikeRF/)
+[📂 Код](https://github.com/RedStrikeRF/Vanilla-JS-ToDoList)
 
 </td>
 <td width="50%">
-
-### ⚙️ [Название проекта 4](https://github.com/RedStrikeRF/)
-
-Краткое описание проекта: что делает, зачем создавался, какая проблема решается.
-
-`Angular` `Redux`
-
-[🔗 Демо](https://example.com) · [📂 Код](https://github.com/RedStrikeRF/)
 
 </td>
 </tr>
@@ -237,48 +229,40 @@ Thanks for visiting my profile! I hope you find something interesting here. Have
 <tr>
 <td width="50%">
 
-### 🌐 [Project name 1](https://github.com/RedStrikeRF/)
+### 🕹️ [Mini Arcade](https://github.com/RedStrikeRF/mini-arcade)
 
-Short description of the project: what it does, why it was built, what problem it solves.
+A collection of 8 mini-games in a shared cyberpunk aesthetic — each game has its own visual world: background, palette, animations, and sound. Shared UI kit, leaderboard, and RU/EN localization.
 
-`React` `TypeScript` `Node.js`
+`React` `Vite` `Zustand` `react-i18next`
 
-[🔗 Demo](https://example.com) · [📂 Code](https://github.com/RedStrikeRF/)
+[🔗 Demo](https://RedStrikeRF.github.io/mini-arcade/) · [📂 Code](https://github.com/RedStrikeRF/mini-arcade)
 
 </td>
 <td width="50%">
 
-### 🎨 [Project name 2](https://github.com/RedStrikeRF/)
+### 🎛️ [BackdropLab](https://github.com/RedStrikeRF/backdrop-lab)
 
-Short description of the project: what it does, why it was built, what problem it solves.
+A gallery of 20 animated page backgrounds with live parameter tuning and one-click export of the ready-made animation as React, TypeScript, JavaScript, or plain HTML.
 
-`HTML` `CSS` `JavaScript`
+`React` `TypeScript` `Vite` `Zustand`
 
-[🔗 Demo](https://example.com) · [📂 Code](https://github.com/RedStrikeRF/)
+[🔗 Demo](https://redstrikerf.github.io/backdrop-lab/) · [📂 Code](https://github.com/RedStrikeRF/backdrop-lab)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📱 [Project name 3](https://github.com/RedStrikeRF/)
+### 📝 [Vanilla JS To-Do List](https://github.com/RedStrikeRF/Vanilla-JS-ToDoList)
 
-Short description of the project: what it does, why it was built, what problem it solves.
+A minimalist to-do list app built with plain JavaScript, no frameworks or bundlers. Dark UI, with a choice of `localStorage` or `sessionStorage` for saving tasks.
 
-`Python` `Django`
+`HTML` `SCSS` `Vanilla JavaScript`
 
-[🔗 Demo](https://example.com) · [📂 Code](https://github.com/RedStrikeRF/)
+[📂 Code](https://github.com/RedStrikeRF/Vanilla-JS-ToDoList)
 
 </td>
 <td width="50%">
-
-### ⚙️ [Project name 4](https://github.com/RedStrikeRF/)
-
-Short description of the project: what it does, why it was built, what problem it solves.
-
-`Angular` `Redux`
-
-[🔗 Demo](https://example.com) · [📂 Code](https://github.com/RedStrikeRF/)
 
 </td>
 </tr>
